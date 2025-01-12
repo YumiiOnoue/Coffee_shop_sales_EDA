@@ -1,1 +1,11 @@
-# Coffee_shop_sales_EDA
+# Análise Exploratória das Vendas de uma Cafeteria
+
+Projeto em andamento.
+
+## Objetivo do projeto
+
+## Premissas do negócio
+
+## Top Insights dos dados
+
+## Conclusão
