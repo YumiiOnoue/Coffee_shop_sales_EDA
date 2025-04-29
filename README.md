@@ -10,6 +10,20 @@ O banco de dados possui 149.116 transações, sendo 1,44 produtos vendidos em m�
 Não há valores nulos nos dados. Desta forma, não foi necessário fazer o tratamento dos dados.
 
 ## Resultados
-![Image Alt](categoria-mais-vendido.png)
+
+![Image Alt](top10-produtos-mais-vendidos.png)
+
+![Image Alt](categoria-mais-vendidos.png)
+
+![Image Alt](receita-media-tipo.png)
+
+![Image Alt](receita-loja.png)
+
+![Image Alt](receita-media-loja.png)
+
+![Image Alt](vendas-diarias.png)
+
+![Image Alt](vendas-hora.png)
+
 
 ## Conclusão
