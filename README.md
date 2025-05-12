@@ -11,19 +11,4 @@ Não há valores nulos nos dados. Desta forma, não foi necessário fazer o trat
 
 ## Resultados
 
-![Image Alt](top10-produtos-mais-vendidos.png)
-
-![Image Alt](categoria-mais-vendidos.png)
-
-![Image Alt](receita-media-tipo.png)
-
-![Image Alt](receita-loja.png)
-
-![Image Alt](receita-media-loja.png)
-
-![Image Alt](vendas-diarias.png)
-
-![Image Alt](vendas-hora.png)
-
-
 ## Conclusão
