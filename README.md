@@ -20,13 +20,16 @@ Tanto a receita e as vendas aumentaram no período análise, passando de $80 mil
 As três lojas apresentam receitas superior a $230 mil, dando destaque para Hell's Kitchen que apresenta receita de $240 mil.
 As quantidades médias de transações por hora variam entre 1,41 e 1,49. Sendo o período da abertura, as 6h, com mais movimento e as 19h
 com menos movimento.
+
 <img src="imagens/geral.jpeg" alt="Análise Geral" width="800" height="500"/>
 
 Ao analisar as lojas, temos que todas elas tiveram aumento da receita no período analisado. Entretanto, observa-se que a loja Hell's Kitchen tem receita superior em todos os meses em comparação com as outras duas lojas. 
 A categoria de produto que mais contribuiem para a receita das lojas é: café, chá, padaria e bebidas com chocolate. Porém, o grão de café, na Hell's Kitchen, apresenta receita superior em relação a loja de Astoria e Lower Manhattan.
 O produto líder nas três lojas é o "Sustainably Grown Organic", tanto no tamanho grande e regular, e em seguida, temos os blends de chai tradicional, indicando preferência por bebidas diferenciadas e saudáveis.
+
 Em relação ao horário das unidades, temos que Astoria tem período de funcionamento diferente, sendo entre as 7h e 19h, enquanto as outras duas lojas atendem entre as 6h e 20h, duas horas a mais que a unidade Astoria. Outro ponto que merece destaque é a transação média da Lower Manhattan, pois esta apresenta transações médias superiores em quase todos os horários, exceto as 13h e as 18h. Nesses dois horários, a unidade da Hell's Kitchen tem maior movimentação em suas vendas.
 Já a unidade de Astoria, tem quantidades de transoções médias entre 1,36 e 1,44, e média mais alta de transações das Hell's Kitchen e Lower Manhattan são, respectivamente, 1,48 e 1,55 vendas por hora. 
+
 <img src="imagens/por_loja.jpeg" alt="Análise por Loja" width="800" height="500"/>
 
 Análise por produto
