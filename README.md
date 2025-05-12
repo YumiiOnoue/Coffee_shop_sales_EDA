@@ -11,4 +11,9 @@ Não há valores nulos nos dados. Desta forma, não foi necessário fazer o trat
 
 ## Resultados
 
+<img src="imagens/geral.jpeg" alt="Análise Geral" width="800" height="500"/>
+<img src="imagens/por_loja.jpeg" alt="Análise por Loja" width="800" height="500"/>
+<img src="imagens/por_produto.jpeg" alt="Análise por Produto" width="800" height="500"/>
+
+
 ## Conclusão
