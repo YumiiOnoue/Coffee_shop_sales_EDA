@@ -61,3 +61,13 @@ Entre os tipos de produtos, os três com maior renda média são da categoria or
 
 
 ## Conclusão
+
+Com essa análise, podemos concluir que as vendas das três lojas estão em crescimento, com destaque para a unidade de Hell's Kitchen, que apresenta uma receita levemente superior em comparação às demais.
+
+Verifica-se também a necessidade de atenção ao horário de atendimento: a unidade de Astoria tem desempenho inferior de vendas em relação às outras duas, possivelmente devido ao menor tempo de funcionamento.
+
+Outro ponto relevante é o desempenho dos produtos sustentáveis e orgânicos, que merecem destaque. Pode ser interessante investir em promoções ou programas de fidelidade focados nesses itens, aproveitando a preferência dos clientes.
+
+Quanto às categorias, a padaria mostra potencial de crescimento e pode se beneficiar de um maior investimento estratégico.
+
+Por outro lado, produtos como Chili Mayan, Caramel Syrup, Brazilian Organic, Chocolate Chip Biscotti e Almond Croissant apresentam baixo desempenho e precisam de maior atenção estratégica, seja para reposicionamento, ajuste de preço ou revisão da oferta.
