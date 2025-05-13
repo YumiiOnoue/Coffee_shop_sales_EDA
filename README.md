@@ -11,7 +11,7 @@ O período da análise é de janeiro a junho de 2023.
 Não há valores nulos nos dados. Desta forma, não foi necessário fazer o tratamento dos dados.
 
 ## Resultados
-A análise exploratória da cafeteria foi realizada no Microsofr Power BI, o arquivo está anexado [aqui](Coffee_shop_sale.pbix) para baixar.
+A análise exploratória da cafeteria foi realizada no Microsofr Power BI (versão gratuita), todas as análises foram desenvolvidas localmente, o arquivo está anexado [aqui](Coffee_shop_sale.pbix) para baixar.
 
 Separei os dados em três grupos: uma análise geral, outra voltada para as lojas e, por fim, uma análise por produto.
 
