@@ -13,28 +13,47 @@ Não há valores nulos nos dados. Desta forma, não foi necessário fazer o trat
 ## Resultados
 A análise exploratória da cafeteria foi realizada no Microsofr Power BI, o arquivo está anexado [aqui](Coffee_shop_sale.pbix) para baixar.
 
-Separei os dados em três grupos, uma para análise geral, outro para análisar as lojas e por fim, uma análise por produto. 
+Separei os dados em três grupos: uma análise geral, outra voltada para as lojas e, por fim, uma análise por produto.
 
-Na visão geral, temos que essa cafeteria teve faturamento de $698,81 mil, total de 214 mil vendas e ticket médio de $3,26 nos seis primeiros meses de 2023.
-Tanto a receita e as vendas aumentaram no período análise, passando de $80 mil em janeiro para $170 mil em junho.
-As três lojas apresentam receitas superior a $230 mil, dando destaque para Hell's Kitchen que apresenta receita de $240 mil.
-As quantidades médias de transações por hora variam entre 1,41 e 1,49. Sendo o período da abertura, as 6h, com mais movimento e as 19h
-com menos movimento.
+Na visão geral, observamos que a cafeteria teve um faturamento de US$ 698,81 mil, totalizando 214 mil vendas e um ticket médio de US$ 3,26 nos seis primeiros meses de 2023. Tanto a receita quanto as vendas aumentaram ao longo do período analisado, passando de US$ 80 mil em janeiro para US$ 170 mil em junho.
+
+As três lojas apresentaram receitas superiores a US$ 230 mil, com destaque para a unidade de Hell's Kitchen, que obteve US$ 240 mil em receita. As médias de transações por hora variaram entre 1,41 e 1,49, sendo o horário de abertura, às 6h, o de maior movimento, e o das 19h, o de menor fluxo.
 
 <img src="imagens/geral.jpeg" alt="Análise Geral" width="800" height="500"/>
 
-Ao analisar as lojas, temos que todas elas tiveram aumento da receita no período analisado. Entretanto, observa-se que a loja Hell's Kitchen tem receita superior em todos os meses em comparação com as outras duas lojas. 
-A categoria de produto que mais contribuiem para a receita das lojas é: café, chá, padaria e bebidas com chocolate. Porém, o grão de café, na Hell's Kitchen, apresenta receita superior em relação a loja de Astoria e Lower Manhattan.
-O produto líder nas três lojas é o "Sustainably Grown Organic", tanto no tamanho grande e medio, e em seguida, temos os blends de chai tradicional, também no tamnho grande e médio, indicando preferência por bebidas diferenciadas e saudáveis.
+Ao analisar as lojas, observamos que todas apresentaram aumento de receita no período analisado. No entanto, destaca-se que a unidade Hell's Kitchen teve receita superior em todos os meses, em comparação com as outras duas lojas.
 
-Em relação ao horário das unidades, temos que Astoria tem período de funcionamento diferente, sendo entre as 7h e 19h, enquanto as outras duas lojas atendem entre as 6h e 20h, duas horas a mais que a unidade Astoria. Outro ponto que merece destaque é a transação média da Lower Manhattan, pois esta apresenta transações médias superiores em quase todos os horários, exceto as 13h e as 18h. Nesses dois horários, a unidade da Hell's Kitchen tem maior movimentação em suas vendas.
-Já a unidade de Astoria, tem quantidades de transações médias entre 1,36 e 1,44, e média mais alta de transações das Hell's Kitchen e Lower Manhattan são, respectivamente, 1,48 e 1,55 vendas por hora. 
+As categorias de produto que mais contribuem para a receita das lojas são: café, chá, padaria e bebidas com chocolate. Porém, o item grão de café, especificamente na unidade Hell's Kitchen, apresenta uma receita superior em relação às unidades de Astoria e Lower Manhattan.
+
+O produto líder nas três lojas é o Sustainably Grown Organic, tanto nos tamanhos grande quanto médio. Em seguida, os blends de chai tradicional, também nos tamanhos grande e médio, aparecem como os mais vendidos, indicando uma preferência dos clientes por bebidas diferenciadas e saudáveis.
+
+Em relação ao horário de funcionamento das unidades, a loja de Astoria opera das 7h às 19h, enquanto as unidades de Hell's Kitchen e Lower Manhattan funcionam das 6h às 20h, totalizando duas horas a mais de atendimento.
+
+Outro ponto que merece destaque é a média de transações por hora da unidade Lower Manhattan, que é superior em quase todos os horários, exceto às 13h e às 18h, momentos em que a unidade de Hell's Kitchen apresenta maior movimentação.
+
+Já a unidade de Astoria registra médias de transações por hora entre 1,36 e 1,44. As maiores médias de transações por hora nas unidades Hell's Kitchen e Lower Manhattan são, respectivamente, 1,48 e 1,55.
 
 <img src="imagens/por_loja.jpeg" alt="Análise por Loja" width="800" height="500"/>
 
-Na análise anterior, observou-se que a maior receita é nos produtos "Sustainably Grown Organic" e nos blends de chai. Analisando por quantidade vendido, esses dois produtos não aparecem no ranking dos cinco produtos mais vendidos. Em primeiro lugar, tem-se "Earl Grey Rg", com 4708 unidades vendidos, seguido por "Dark Chocolate Lg", 4668 unidades, e "Morning Sunrise Chai Rg" com 4643 unidades. "Traditional Blend Chai Rg" é o sétimo produto mais vendido (4512 unidades) e "Sustainably Grown Organic Lg" está em oitavo lugar (4453 unidades).
-Dentre os produtos comercializados pelas cafeterias, alguns produtos não passam de $10 mil de receita, que são eles: "Chili Mayan" com faturamento de $1972,84, "Carmel Syrup" ($2060,80), "Brazilian Organic" ($3852,00), "Chocolate Chip Biscoitti" ($6748,96) e "Almond Croissant" ($7168,13).
-As categorias com mais de 1,5 mil unidades vendidas são: café, chá, padaria, bebida com chocolate e "Flavours". Esse último, somente apresentou mais de 1,5 mil unidades vendidas em abril em diante. Todas as categorias apresentaram aumento nas vendas. Entretanto, temos que destacar a quantidade vendida de café, este passou de 10 mil unidades vendidas para 21 mil unidades, aumento de mais de 2 vezes no período de seis meses. 
+Na análise anterior, observou-se que os produtos com maior receita foram o Sustainably Grown Organic e os blends de chai. No entanto, ao analisar a quantidade vendida, esses dois produtos não aparecem entre os cinco mais vendidos.
+
+Em primeiro lugar, temos o Earl Grey Rg, com 4.708 unidades vendidas, seguido por Dark Chocolate Lg (4.668 unidades) e Morning Sunrise Chai Rg (4.643 unidades). O Traditional Blend Chai Rg ocupa a sétima posição, com 4.512 unidades, enquanto o Sustainably Grown Organic Lg está em oitavo lugar, com 4.453 unidades vendidas.
+
+Entre os produtos comercializados pelas cafeterias, alguns registraram receitas inferiores a US$ 10 mil, sendo eles:
+
+- Chili Mayan: US$ 1.972,84
+
+- Caramel Syrup: US$ 2.060,80
+
+- Brazilian Organic: US$ 3.852,00
+
+- Chocolate Chip Biscotti: US$ 6.748,96
+
+- Almond Croissant: US$ 7.168,13
+
+As categorias com mais de 1.500 unidades vendidas ao longo do período foram: café, chá, padaria, bebidas com chocolate e "Flavours". Essa última categoria só ultrapassou a marca de 1.500 unidades a partir de abril.
+
+Todas as categorias apresentaram crescimento nas vendas, com destaque para o café, que teve um aumento expressivo: passou de 10 mil unidades vendidas em janeiro para 21 mil unidades em junho, o que representa mais que o dobro em apenas seis meses.
 
 
 <img src="imagens/por_produto.jpeg" alt="Análise por Produto" width="800" height="500"/>
