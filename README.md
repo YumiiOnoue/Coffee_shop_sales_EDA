@@ -42,21 +42,22 @@ Em primeiro lugar, temos o Earl Grey Rg, com 4.708 unidades vendidas, seguido po
 Entre os produtos comercializados pelas cafeterias, alguns registraram receitas inferiores a US$ 10 mil, sendo eles:
 
 - Chili Mayan: US$ 1.972,84
-
 - Caramel Syrup: US$ 2.060,80
-
 - Brazilian Organic: US$ 3.852,00
-
 - Chocolate Chip Biscotti: US$ 6.748,96
-
 - Almond Croissant: US$ 7.168,13
 
 As categorias com mais de 1.500 unidades vendidas ao longo do período foram: café, chá, padaria, bebidas com chocolate e "Flavours". Essa última categoria só ultrapassou a marca de 1.500 unidades a partir de abril.
 
-Todas as categorias apresentaram crescimento nas vendas, com destaque para o café, que teve um aumento expressivo: passou de 10 mil unidades vendidas em janeiro para 21 mil unidades em junho, o que representa mais que o dobro em apenas seis meses.
-
-
 <img src="imagens/por_produto.jpeg" alt="Análise por Produto" width="800" height="500"/>
+
+Todas as categorias apresentaram crescimento nas vendas, com destaque para café e chá, que mantiveram volumes superiores de vendas em todos os meses analisados. A categoria padaria, terceira colocada no ranking de vendas, registrou em junho 5.431 unidades vendidas, representando 74,7% a menos que o café e 66,9% a menos que o chá.
+
+Entre os tipos de produtos, os três com maior renda média são da categoria orgânicos e premium:
+
+- Grãos premium (US$ 43,40)
+- Grãos orgânicos (US$ 20,50)
+- Utensílios domésticos (US$ 14,15)
 
 
 ## Conclusão
