@@ -1,4 +1,4 @@
-# Análise Exploratória das Vendas de uma Cafeteria
+# Painel de Vendas da Cafeteria
 
 ## Objetivo do projeto
 Este projeto tem como objetivo analisar o desempenho de vendas de uma cafeteria com três unidades distintas, utilizando dados transacionais para gerar insights estratégicos. 
