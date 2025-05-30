@@ -16,7 +16,8 @@ A análise visa gerando insights com os dados disponíveis e apoiar a tomada de 
 - Não há valores nulos nos dados. Desta forma, não foi necessário fazer o tratamento dos dados.
 
 ## Resultados
-A análise exploratória da cafeteria foi realizada no Microsofr Power BI (versão gratuita), todas as análises foram desenvolvidas localmente, o arquivo está anexado [aqui](Coffee_shop_sale.pbix) para baixar.
+A análise descritiva da cafeteria foi realizada no Microsofr Power BI, clique nesse [link](https://app.powerbi.com/view?r=eyJrIjoiYmMwMmQyNzgtMzJjMC00ZTViLThjNzAtYWRlODFhOGE0Y2E1IiwidCI6IjJlYjE0NDQ3LTQ0YWQtNDllZi04YjhmLTA5OWEzNTlhYjZkYSJ9)
+para visualizar o dashboard.
 
 Separei os dados em três grupos: uma análise geral, outra voltada para as lojas e, por fim, uma análise por produto.
 
