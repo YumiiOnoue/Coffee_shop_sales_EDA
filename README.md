@@ -16,12 +16,11 @@ A análise visa gerando insights com os dados disponíveis e apoiar a tomada de 
 - Não há valores nulos nos dados. Desta forma, não foi necessário fazer o tratamento dos dados.
 
 ## Resultados
-A análise descritiva da cafeteria foi realizada no Microsofr Power BI, clique nesse [link](https://app.powerbi.com/view?r=eyJrIjoiYmMwMmQyNzgtMzJjMC00ZTViLThjNzAtYWRlODFhOGE0Y2E1IiwidCI6IjJlYjE0NDQ3LTQ0YWQtNDllZi04YjhmLTA5OWEzNTlhYjZkYSJ9)
+A análise descritiva da cafeteria foi realizada no Microsoft Power BI, clique nesse [link](https://app.powerbi.com/view?r=eyJrIjoiYmMwMmQyNzgtMzJjMC00ZTViLThjNzAtYWRlODFhOGE0Y2E1IiwidCI6IjJlYjE0NDQ3LTQ0YWQtNDllZi04YjhmLTA5OWEzNTlhYjZkYSJ9)
 para visualizar o dashboard.
 
 
-<img src="imagens/geral.jpeg" alt="Análise Geral" width="800" height="500"/>
-
+<img src="imagens/Dashboard coffee shop.jpeg" alt="Análise Geral" />
 
 
 ## Conclusão
